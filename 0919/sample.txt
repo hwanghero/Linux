@@ -1,0 +1,3 @@
+ls
+cat > sample.txt
+this is a sample text
